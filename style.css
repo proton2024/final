@@ -1,0 +1,43 @@
+.contacts {
+  border : 3px solid brown;
+  color : sienna;
+  text-decoration: none;
+  padding : 10px;
+  margin : 15px;
+}
+.gift {
+    border: 1px solid lightblue;
+    border-radius : 10px;
+}
+body {
+    font-family: sans-serif;
+}
+nav a{
+    background-color : #4169E1;
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 3px solid royalblue;
+    padding : 0,5px;
+}
+header {
+    background-color: #BA55D3;
+}
+h1 {
+    text-align : center;
+    color: purple;
+}
+
+h2 { 
+    color : chocolate;
+    accent-color: maroon;
+}
+.popular {
+    background-color : black;
+    color : aliceblue;
+}
+.products {
+    background-color : Seagreen;
+    color : white;
+}    
